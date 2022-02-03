@@ -14,4 +14,4 @@ for i in range(10):
     pyautogui.click(clicks=1, interval=0.01)
 
 print('\nDone...')
-print(pyautogui.size())
+print(pyautogui.size()) # Output
