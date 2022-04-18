@@ -16,4 +16,4 @@ for i in range(10):
     counter += 1
 
 print('\nDone...')
-print(pyautogui.size()) # Output
+print(pyautogui.size())
